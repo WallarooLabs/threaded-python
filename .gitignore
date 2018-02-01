@@ -1,0 +1,6 @@
+*.o
+*.dSYM
+*.pyc
+*.
+/threaded-python
+/lib
