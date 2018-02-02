@@ -83,7 +83,7 @@ PYTHONPATH=. ./threaded-pony 1
 To run with 5 incrementer actors:
 
 ```
-PYTHONPATH=. ./threaded-pony 1
+PYTHONPATH=. ./threaded-pony 5
 ```
 
 Each incrementer will increment the global counter 1000 times.
